@@ -7,6 +7,6 @@ Mod Pack will not be upload here as is contains my personal IP
 
 For Feature / Mod requests see "Feature / Mod request" post on the issues tab
 
-For questions and setup guides please see the Wiki tab
+**For questions and setup guides please see the Wiki tab**
 
 For issue / bug reports please first see Issue Reporting page on the Wiki tab
